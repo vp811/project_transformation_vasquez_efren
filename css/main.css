@@ -145,6 +145,25 @@ a {
     color: #FFFFFF;
 }
 
+@media all and (min-width: 600px) {
+    nav ul {
+        text-align: center;
+    }
+    nav li {
+        display: inline-block;
+        width: 49%;
+    }
+}
+
+@media all and (min-width: 850px) {
+    nav ul {
+        text-align: center;
+    }
+    nav li{
+        width: calc(100% / 6);
+    }
+}
+
 /* Page */
 
 #page {
