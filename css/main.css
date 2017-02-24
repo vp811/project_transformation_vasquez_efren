@@ -17,7 +17,6 @@ body {
     padding: 0;
     background: #050505 url(../img/img01.jpg) repeat;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
     color: #5B5B5B;
 }
 
@@ -128,9 +127,8 @@ a {
 
 #menu a {
     display: block;
-    line-height: 100px;
     margin-right: 1px;
-    padding: 0px 20px 0px 20px;
+    padding: 1em 1em;
     text-decoration: none;
     text-align: center;
     text-shadow: 1px 1px 0px rgba(0,0,0,.2);
