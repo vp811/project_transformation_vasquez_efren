@@ -8,6 +8,10 @@ html {
     box-sizing: inherit;
 }
 
+.site-container {
+    max-width: 1000px;
+}
+
 body {
     margin: 0;
     padding: 0;
