@@ -321,7 +321,10 @@ a {
 
 #banner {
     margin: 0px auto;
-    width: 1000px;
-    height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
+}
+
+#banner img {
+    height: auto;
+    width: 100%;
 }
