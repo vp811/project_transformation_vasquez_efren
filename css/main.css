@@ -209,18 +209,18 @@ a {
 
 .more {
     display: block;
-    width: 88px;
+    width: 40%;
     padding: 5px 5px;
-    margin-right: 10px;
     background: #222222;
     color: #FFFFFF;
     text-align: center;
     text-decoration: none;
+    margin-bottom: 2%;
 }
 
 .comments {
     display: block;
-    width: 88px;
+    width: 40%;
     padding: 5px 5px;
     background: #222222;
     color: #FFFFFF;
