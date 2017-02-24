@@ -307,3 +307,7 @@ a {
     height: auto;
     width: 100%;
 }
+
+#content {
+    padding: 2em;
+}
