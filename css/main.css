@@ -95,7 +95,7 @@ a {
 #logo {
     width: 300px;
     margin: 0;
-    padding: 0;
+    padding-left: 5%;
     color: #ffffff;
 }
 
@@ -132,7 +132,7 @@ a {
 /* Menu */
 #menu {
     margin: 0 auto;
-    padding: 0;
+    padding: 2% 0%;
 }
 
 #menu ul {
