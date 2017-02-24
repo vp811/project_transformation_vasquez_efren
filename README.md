@@ -8,7 +8,7 @@
 * [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.efrenvasquez.com%2Fproject_transformation_vasquez_efren%2F)
 
 ## Resources
-* I did not use any resources outside of the lectures and my notes on my assignment.
+* I used the boilerplate code provided to us in our lecture.
 
 ## Deductions
 * I reviewed the list of deductions for this project and in the syllabus
